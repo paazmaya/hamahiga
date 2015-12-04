@@ -1,4 +1,4 @@
-# Hamahiga
+# hamahiga (浜比嘉)
 
 > Restful API image scraper
 
@@ -8,5 +8,8 @@ Written in Go.
 
 ## License
 
-Copyright (c) [Juga Paazmaya <paazmaya@yahoo.com>](http://paazmaya.fi)
+Licensed under [the MIT license](LICENSE).
+
+Copyright (c) [Juga Paazmaya](http://paazmaya.fi) <paazmaya@yahoo.com>
+
 
